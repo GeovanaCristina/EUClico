@@ -1,0 +1,41 @@
+div{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+width: 800px;
+
+}
+img{
+text-align: center;
+width:750px;
+height:300px;
+}
+p.autores{
+color:gray;
+font-style:italic;
+}
+body{
+
+background-image:url("fundoCasas.jpg") no-repeat;
+}
+.fundo{
+background-color:white;
+border-radius:20px;
+border:2px solid black;
+
+}
+p{
+margin-right:50px;
+margin-left:50px;
+
+}
+a{
+margin-right:15px;
+margin-left:15px;
+
+}
+a:link{
+color:black;
+text-decoration:none;}
+a:visited{color:black;}
+a:hover{color:gray}
